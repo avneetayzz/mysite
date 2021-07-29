@@ -1,0 +1,55 @@
+body {
+  background-color: #F7DAD9;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #865439;
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  font-size: 100px;
+  margin-top: 0px;
+  margin-bottom: 0;
+}
+
+p {
+  color: #865439;
+  font-family: fantasy cursive;
+  font-size: 25px;
+  margin: 0;
+}
+
+.cloud {
+  height: 50%;
+  width: 30%;
+}
+
+.top {
+  position: absolute;
+  left: 0%;
+  top: 40px;
+}
+
+.bottom {
+  position: absolute;
+  right: 0%;
+  top: 200px;
+}
+
+.mountain {
+  position: absolute;
+  left: 0px;
+  top: 150px;
+  height: 1000px;
+  width: 100%;
+}
+
+.alpha {
+  padding-top: 200px;
+}
+
+.bravo {}
+
+.Charlie {}
+
+.delta {}
